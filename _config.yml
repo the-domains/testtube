@@ -1,0 +1,28 @@
+name: testtube
+favicon: null
+layout_spectrum: 0.8163653798401356
+typography_spectrum: 0.6005983711220324
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7344568725675344
+  lightness: 0.7959495196118951
+  saturation: 0.4934076927602291
+  rhythmicContrast: 0.9912061183713377
+purpose: []
